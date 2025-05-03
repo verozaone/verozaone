@@ -89,7 +89,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: [shaliniverona@gmail.com](mailto:shaliniverona@gmail.com)  
-- 🔗 LinkedIn: [Update your LinkedIn link here]
+- 🔗 LinkedIn: ["https://www.linkedin.com/in/shalini-veronika/"]
 
 ---
 
