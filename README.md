@@ -65,7 +65,7 @@
 
 ### 🎓 Education
 
-- 🎓 MSc in Engineering & Industrial Management – University of Vaasa, Finland (2025)  
+- 🎓 MSc in  Industrial Engineering & Management – University of Vaasa, Finland (2025)  
 - 🎓 MBA in Business & Marketing – University of Gloucestershire, UK  
 - 🎓 BSc in Industrial IT – Uva Wellassa University, Sri Lanka  
 
